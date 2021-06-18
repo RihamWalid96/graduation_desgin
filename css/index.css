@@ -366,13 +366,9 @@ left: 30px;
    color: silver;
    margin-left:-40px ;
  }
- [type="button"]:not(:disabled),
- [type="reset"]:not(:disabled),
- [type="submit"]:not(:disabled),
- button:not(:disabled) {
-   cursor: pointer;
- }
- br {
-   color: silver;
- }
  
+ 
+ /* top rated */
+ .rate i{
+   color: #ffc446;
+ }
