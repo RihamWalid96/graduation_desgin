@@ -271,6 +271,9 @@ left: 30px;
 -webkit-transition: all, 0.3s;
 -o-transition: all, 0.3s;
 }
+.services__item__icon a {
+   color:#ffc446 ;
+}
 .services__item__text h4 {
    color: #0e1f24;
    font-size: 22px;
