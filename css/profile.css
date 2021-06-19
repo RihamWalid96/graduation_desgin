@@ -98,8 +98,11 @@
 .review .reviewer h4{
     margin-top: 8px;
 }
+.review .reviewer p{
+    color:rgb(161, 158, 158);
+}
 @media   (min-width: 1199px){
-    .review .reviewer .col-8 {
+    .review .reviewer .col-6 {
     margin-left: -80px;
   
  }
