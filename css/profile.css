@@ -75,3 +75,38 @@
     font-size: 20px;
     color: #ffc446;
 }
+/* review */
+.review{
+    padding: 100px 0px;
+  
+}
+.review h1{
+    padding: 25px
+
+}
+.one__review{
+    padding: 20px;
+    border-bottom:1px solid lightgray;
+    margin-bottom: 10px;
+}
+.review .reviewer img{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    
+}
+.review .reviewer h4{
+    margin-top: 8px;
+}
+@media   (min-width: 1199px){
+    .review .reviewer .col-8 {
+    margin-left: -80px;
+  
+ }
+}
+.review__content{
+    margin-top: 25px;
+}
+.review__content p{
+    color: gray;
+}
